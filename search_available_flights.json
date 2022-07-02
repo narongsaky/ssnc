@@ -1,0 +1,22 @@
+[
+    {
+        "flightNo": "AA1234",
+        "flightDate": "20-10-2030",
+        "departureTime": "10:00",
+        "arrivalTime": "11:00",
+        "from": "BKK",
+        "to": "KKC",
+        "availableSeat": 50,
+        "totalSeat": 60
+    },
+    {
+        "flightNo": "AA1235",
+        "flightDate": "20-10-2030",
+        "departureTime": "15:00",
+        "arrivalTime": "16:00",
+        "from": "BKK",
+        "to": "CNX",
+        "availableSeat": 60,
+        "totalSeat": 100
+    }
+]
